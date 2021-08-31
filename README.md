@@ -10,3 +10,6 @@
 </div>
  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic91/93113b09117feab4bb48fb3b03a17645.gif" width="250" height="250" border="0" alt="https://picasion.com/" /></a><br />
   
+
+  ![Snake animation](https://github.com/alanaalberton/alanaalberton/blob/output/github-contribution-grid-snake.svg)
+ 
